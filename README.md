@@ -1,5 +1,6 @@
 # Python-cia-installer
-A python script i put together quickly to install .cias 
+- A python script i put together quickly to install .cia´s
+- Uses servefiles.py from the official FBI GitHub Repository
 ```
 Usage: 
   1: Open CMD and cd to the installation directory
